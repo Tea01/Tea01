@@ -2,4 +2,4 @@
 😄 I’m interested in creating new things that can help humanity
 ✏️ I’m currently learning computer engineering
 👩🏻‍💻 I’m looking to collaborate on projects about holography and quantum computing :)
-📫 How to reach me: teashkurti05@gmail.com
+📫 How to reach me: teashkurti05@gmail.com or on my LinkedIn acc: www.linkedin.com/in/teashkurti01/
