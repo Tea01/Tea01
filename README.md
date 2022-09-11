@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tea Shkurti</h1>
+<h1 align="center">Hello 👋, I'm Tea Shkurti</h1>
 <h3 align="center">A computer Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tea01&label=Profile%20views&color=0e75b6&style=flat" alt="tea01" /> </p>
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything 😄**
 
-- 📫 How to reach me **teashkurti05@gmail.com or https://www.linkedin.com/in/teashkurti01/**
+- 📫 You can reach me on: **www.linkedin.com/in/teashkurti01/ or teashkurti05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
