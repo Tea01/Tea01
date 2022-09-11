@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Tea Shkurti</h1>
-<h3 align="center">A computer Engineering Student</h3>
+<h3 align="center">A Computer Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tea01&label=Profile%20views&color=0e75b6&style=flat" alt="tea01" /> </p>
 
