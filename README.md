@@ -13,7 +13,7 @@
 
 - 📫 You can reach me on: **www.linkedin.com/in/teashkurti01/ or teashkurti05@gmail.com**
 <br>
-
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 <h2 align="left">CONNECT WITH ME:</h2>
 <p align="left">
 <a href="https://dev.to/https://dev.to/tea01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/tea01" height="30" width="40" /></a>
